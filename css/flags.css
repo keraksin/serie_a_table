@@ -1,0 +1,10 @@
+.flag {
+  width: 16px;
+  height: 12px;
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.flag-italy {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAAm0lEQVQokWPk7GOwZ2Bg6GJgYDBjgILjThcYsAH+eANk7ikGBoYyFgYGhhUuLr4SyDKK8opYDeDz8kXmmj3YtnkFCwMDgwQDAwPD5rebEQp1+bAawHAMoYbBypeBgYFBggm7SuLBqAGDwQAWBgaGpwwMDNK+wohE8unTJ6yK+ax80YWeMnL2MXgwMDDMZ4AmKAYGopPyCwYGhkQAtVYbSzwbJF8AAAAASUVORK5CYII=');
+}

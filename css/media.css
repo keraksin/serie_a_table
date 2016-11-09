@@ -1,0 +1,12 @@
+@media screen and (min-width : 320px) and (max-width: 767px) {
+    /* скрываем колонки Забито и Пропущено;
+    скрываем описание колонок Забито и Пропущено */
+    .stat-table .stats-goals,
+    .stat-table .stats-conceded {
+        display: none;
+    }
+    
+    .table-description-goals {
+        display: none;
+    }
+}
